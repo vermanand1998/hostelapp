@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hostelapp/static/css/main.a617e044.chunk.css",
+    "main.js": "/hostelapp/static/js/main.630d9c76.chunk.js",
+    "main.js.map": "/hostelapp/static/js/main.630d9c76.chunk.js.map",
+    "runtime-main.js": "/hostelapp/static/js/runtime-main.06f16481.js",
+    "runtime-main.js.map": "/hostelapp/static/js/runtime-main.06f16481.js.map",
+    "static/js/2.9b431c05.chunk.js": "/hostelapp/static/js/2.9b431c05.chunk.js",
+    "static/js/2.9b431c05.chunk.js.map": "/hostelapp/static/js/2.9b431c05.chunk.js.map",
+    "static/js/3.fbda5980.chunk.js": "/hostelapp/static/js/3.fbda5980.chunk.js",
+    "static/js/3.fbda5980.chunk.js.map": "/hostelapp/static/js/3.fbda5980.chunk.js.map",
+    "index.html": "/hostelapp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/hostelapp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9b431c05.chunk.js.LICENSE.txt": "/hostelapp/static/js/2.9b431c05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06f16481.js",
+    "static/js/2.9b431c05.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.630d9c76.chunk.js"
+  ]
+}
